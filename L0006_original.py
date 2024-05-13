@@ -82,6 +82,7 @@ def task3_1(inputimage_domain, result_image):
 
 def task3(path_image):
     #TODO
+    return
 
 
 def draw_rectangle(event, x, y, flags, param):
